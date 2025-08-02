@@ -5,3 +5,7 @@ local-RAG-agent/
 .venv/
 __pycache__/
 local-RAG-agent/
+.DS_Store
+.venv/
+__pycache__/
+local-RAG-agent/
